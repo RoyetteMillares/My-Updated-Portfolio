@@ -21,6 +21,7 @@ npm run watch
 
 - Images from [Unsplash](https://unsplash.com)
 -BLA BLA SANA GUMANA NA
+-OKAY NA
 - [Three.js](https://threejs.org/docs/)
 - [GSAP from GreenSock](https://greensock.com/)
 - [Smooth Scrollbar](https://idiotwu.github.io/smooth-scrollbar/)
