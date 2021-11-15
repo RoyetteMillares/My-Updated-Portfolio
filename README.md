@@ -1,4 +1,7 @@
 ## Installation
+
+Building my new Portfolio
+
 Run this command in the terminal
 ```
 npm install
@@ -17,6 +20,7 @@ npm run watch
 ## Credits
 
 - Images from [Unsplash](https://unsplash.com)
+-BLA BLA SANA GUMANA NA
 - [Three.js](https://threejs.org/docs/)
 - [GSAP from GreenSock](https://greensock.com/)
 - [Smooth Scrollbar](https://idiotwu.github.io/smooth-scrollbar/)
